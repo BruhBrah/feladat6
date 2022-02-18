@@ -1,0 +1,36 @@
+.kover
+{
+    font-weight: bold;
+    color: yellow;
+}
+
+body
+{
+    width: 800px;
+    margin: auto;
+    background-color: rgb(167, 153, 153);
+}
+
+h1
+{
+    font-variant: small-caps;
+}
+
+p
+{
+    text-align: justify;
+}
+
+.kepek
+{
+    margin: 20px;
+}
+
+a, a:visited a:active
+{
+  color: white;
+}
+a:hover
+{
+  color: red;
+}
