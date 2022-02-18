@@ -16,7 +16,7 @@ h1
     font-variant: small-caps;
 }
 
-p
+p, li
 {
     text-align: justify;
 }
